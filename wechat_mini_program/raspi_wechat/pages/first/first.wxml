@@ -1,0 +1,8 @@
+<!--pages/first/first.wxml-->
+<view class="page-body">
+  <text>
+    树莓派LED控制
+  </text>
+  <button size="mini" bindtap="changeLED" class="page-body-button" type="primary">开/关灯</button>
+</view>
+
