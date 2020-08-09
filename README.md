@@ -1,0 +1,3 @@
+# Raspi_IOT
+raspi文件夹为树莓派端的的程序
+wehat_mini_program为微信小程序，APPID使用的为测试号
